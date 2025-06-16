@@ -49,7 +49,6 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
 
-    // Estas son las dependencias que necesitas para KeyboardOptions
     implementation("androidx.compose.ui:ui-text:1.8.2")
     implementation("androidx.compose.foundation:foundation:1.8.2")
     implementation("androidx.compose.foundation:foundation-layout:1.8.2")
